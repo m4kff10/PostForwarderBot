@@ -24,7 +24,7 @@ This bot can send all new messages from one channel, directly to another channel
 <details>
 <summary>Local Deploys</summary>
 <br>
-- Clone the repo:   <code>git clone https://github.com/stark-Prince/PostForwarderBot</code></br>
+- Clone the repo:   <code>git clone https://github.com/aryuokk-v2/PostForwarderBot</code></br>
 - Make a <code>.env</code> file in the root of the repo and fill in the values.</br>
 - Use <code>python3 bot.py</code> to start the bot.</br>  
 </details>
